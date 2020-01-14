@@ -1,0 +1,7 @@
+{
+  "name": "tinkr/sheets",
+  "author": "tinkr",
+  "dependencies": {
+    "lib": "latest"
+  }
+}
