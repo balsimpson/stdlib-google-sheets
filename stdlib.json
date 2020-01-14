@@ -1,6 +1,7 @@
 {
   "name": "tinkr/sheets",
-  "version": "1.0.0",
-  "publish": true,
-  "description": "Google Sheets stdlib.com connector"
+  "timeout": 20000,
+  "version": "1.0.1",
+  "description": "",
+  "events": []
 }
