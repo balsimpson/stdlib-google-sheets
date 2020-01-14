@@ -1,5 +1,5 @@
 {
-  "name": "tinkr/sheets",
+  "name": "stdlib-google-sheets",
   "author": "tinkr",
   "dependencies": {
     "lib": "latest"
