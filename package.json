@@ -1,6 +1,9 @@
 {
-  "name": "stdlib-google-sheets",
+  "name": "sheets",
+  "version": "1.0.0",
+  "description": "GoogleSheets Connector",
   "author": "tinkr",
+  "main": "functions/__main__.js",
   "dependencies": {
     "lib": "latest"
   }
